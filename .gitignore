@@ -1,0 +1,11 @@
+# Development artifacts (not part of the entry).
+bench.mjs
+fuzz.mjs
+fuzz-fail.json
+fresh-set/
+solve-v2.js
+solve-v3.js
+solve-instr.js
+prof.cpuprofile
+node_modules/
+out/
